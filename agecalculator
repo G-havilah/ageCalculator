@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Age Calculator</title>
+	
+</head>
+<body>
+	<h1>Let's Begin the calculation</h1>
+	<h3>Nigeria is a country located in the Western part of the African Continent.<p> She gained her independent in 1960 and she has more than an 100 tribal people. She has experienced so many hardship and challenges which has helped her to be more stronger than she used to. <p> How old is Nigeria as at 2019.  
+	<script type="text/javascript" src="ageCal.js"></script>
+
+</body>
+</html>
